@@ -5,7 +5,6 @@ $appsToUninstall = @(
     "Clipchamp.Clipchamp"
     "Microsoft.BingNews"
     "Microsoft.BingWeather"
-    "Microsoft.GamingApp"
     "Microsoft.GetHelp"
     "Microsoft.MicrosoftOfficeHub"
     "Microsoft.MicrosoftSolitaireCollection"
