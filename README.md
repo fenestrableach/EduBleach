@@ -1,5 +1,5 @@
 # EduBleach
-**A tiny guide to bleach for Windows 10/11 Education with scripts and group policy!**
+**A tiny guide to bleach for Windows 10/11 Education with scripts and group policies!**
 ![EduBleach](https://github.com/fenestrableach/EduBleach/blob/main/EduBleach.png)
 
 # First step (setting up group policies)
